@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bbstealth/static/css/main.a526ecbd.css",
+    "main.js": "/bbstealth/static/js/main.9e1c03aa.js",
+    "static/js/787.bbdb61c4.chunk.js": "/bbstealth/static/js/787.bbdb61c4.chunk.js",
+    "static/media/BB-Logo.png": "/bbstealth/static/media/BB-Logo.903f33d8a5f45596ce2d.png",
+    "index.html": "/bbstealth/index.html",
+    "main.a526ecbd.css.map": "/bbstealth/static/css/main.a526ecbd.css.map",
+    "main.9e1c03aa.js.map": "/bbstealth/static/js/main.9e1c03aa.js.map",
+    "787.bbdb61c4.chunk.js.map": "/bbstealth/static/js/787.bbdb61c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a526ecbd.css",
+    "static/js/main.9e1c03aa.js"
+  ]
+}
